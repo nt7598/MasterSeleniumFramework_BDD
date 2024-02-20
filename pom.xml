@@ -14,7 +14,7 @@
 		<!-- <cucumber.version>7.2.3</cucumber.version> -->
 		<cucumber.version>7.2.0</cucumber.version>
 		<selenium.version>4.1.2</selenium.version>
-		<webdrivermanager.version>4.4.3</webdrivermanager.version>
+		<webdrivermanager.version>5.0.0</webdrivermanager.version>
 		<rest.assured.version>4.4.0</rest.assured.version>
 		<jackson.databind.version>2.13.1</jackson.databind.version>
 		<zt.zp.version>1.12</zt.zp.version>
