@@ -16,7 +16,7 @@
 		<selenium.version>4.1.2</selenium.version>
 		<webdrivermanager.version>4.4.3</webdrivermanager.version>
 		<rest.assured.version>4.4.0</rest.assured.version>
-		<jackson.databind.version>2.13.1</jackson.databind.version>
+		<jackson.databind.version>2.15.0</jackson.databind.version>
 		<zt.zp.version>1.12</zt.zp.version>
 		<javax.mail.version>1.6.2</javax.mail.version>
 	</properties>
